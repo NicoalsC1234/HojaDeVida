@@ -1,0 +1,42 @@
+#circle {
+    width: 75px;
+    height: 75px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 150px;
+    background: red;
+    background-image: "images/navbar.jpg";
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 50px;
+  }
+
+#imgnavbar{
+    width: 100%;
+    border-radius: 150px;
+}
+
+#circle {
+  width: 75px;
+  height: 75px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 150px;
+  background: red;
+  background-image: "images/navbar.jpg";
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 50px;
+}
+
+.logo_footprint {
+  width: 75px;
+  height: 75px;
+}
+
+.foto_izq{
+  width: 600px;
+  height: 360px;
+  margin-top: 50px;
+  margin-left: 50px;
+}

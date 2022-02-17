@@ -1,0 +1,62 @@
+div#general {
+    position: absolute;
+    top: 115px;
+    left: 10px;
+    width: 1340px;
+    height: 640px;
+    background-color: antiquewhite;
+  }
+  
+  div#TOPCanciones {
+    position: absolute;
+    top: 320px;
+    left: 0px;
+    width: 670px;
+    height: 550px;
+    background-color: navajowhite;
+  }
+  
+  div#TOPAlbumes {
+    position: absolute;
+    top: 320px;
+    left: 670px;
+    width: 670px;
+    height: 550px;
+    background-color: palevioletred;
+  }
+  
+  div#imagen {
+    position: absolute;
+    top: 0px;
+    left: 1120px;
+    width: 220px;
+    height: 320px;
+    background-color: darkgreen;
+  }
+  
+  div#Introduccion {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1120px;
+    height: 320px;
+    background-color: mediumaquamarine;
+  }
+  
+  #titulo {
+    color: black;
+    font: oblique bold 300% cursive;
+    text-align: center;
+  }
+  
+  #nombre {
+    color: black;
+    font: oblique bold 120% cursive;
+  }
+  
+  #intro {
+    color: black;
+    font: oblique bold 100% cursive;
+  }
+
+  
